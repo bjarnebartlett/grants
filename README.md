@@ -44,7 +44,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#list-of-grants">Grants Submitted</a></li>
+    <li><a href="#list-of-submitted-grants">List of Submitted Grants</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -64,13 +64,13 @@ Use these grants that I have submitted as a resource to prepare your own proposa
 
 
 
-<!-- List of Grants -->
+<!-- List of Submitted Grants -->
 ## List of Submitted Grants
 
-- [SEED 2018]: https://github.com/bjarnebartlett/grants/blob/main/funded/SEED-Hawaii-2018.pdf
-- [SEED 2019]: https://github.com/bjarnebartlett/grants/blob/main/funded/SEED-Hawaii-2019.pdf
-- [Macadamia]: https://github.com/bjarnebartlett/grants/blob/main/funded/Team%20Science_Macadamia%20Concept_Note_Proposal_v1_2020.pdf
-    - [Macadamia Project Page] https://www.bjarnebartlett.com/Interspecific-Breeding-History-of-Hawaiian-Macadamia/
+- [SEED-2018](https://github.com/bjarnebartlett/grants/blob/main/funded/SEED-Hawaii-2018.pdf)
+- [SEED-2019](https://github.com/bjarnebartlett/grants/blob/main/funded/SEED-Hawaii-2019.pdf)
+- [Macadamia](https://github.com/bjarnebartlett/grants/blob/main/funded/Team%20Science_Macadamia%20Concept_Note_Proposal_v1_2020.pdf)
+    - [Macadamia Project Page](https://www.bjarnebartlett.com/Interspecific-Breeding-History-of-Hawaiian-Macadamia/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -117,9 +117,8 @@ Project Link: [https://github.com/bjarnebartlett/grants](https://github.com/bjar
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [Michael Kantar](https://mbkantarlab.weebly.com/)
+* [KTUH](ktuh.org)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
