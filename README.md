@@ -28,15 +28,11 @@
 <h3 align="center">grants</h3>
 
   <p align="center">
-    use this page to see drafts of grants that i have submitted
+    On this page, I upload PDF's  of grants that I have submitted to help other researchers.
     <br />
     <a href="https://github.com/bjarnebartlett/grants"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/bjarnebartlett/grants">View Demo</a>
-    ·
-    <a href="https://github.com/bjarnebartlett/grants/issues">Report Bug</a>
-    ·
     <a href="https://github.com/bjarnebartlett/grants/issues">Request Feature</a>
   </p>
 </div>
@@ -47,21 +43,8 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#list-of-grants">Grants Submitted</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -74,83 +57,20 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `bjarnebartlett`, `grants`, `bjarnebartlett`, `bjarnebartlett`, `email_client`, `email`, `grants`, `use this page to see drafts of grants that i have submitted`
+Use these grants that I have submitted as a resource to prepare your own proposals.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
-### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+<!-- List of Grants -->
+## List of Submitted Grants
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/bjarnebartlett/grants.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/bjarnebartlett/grants/issues) for a full list of proposed features (and known issues).
+- [SEED 2018]: https://github.com/bjarnebartlett/grants/blob/main/funded/SEED-Hawaii-2018.pdf
+- [SEED 2019]: https://github.com/bjarnebartlett/grants/blob/main/funded/SEED-Hawaii-2019.pdf
+- [Macadamia]: https://github.com/bjarnebartlett/grants/blob/main/funded/Team%20Science_Macadamia%20Concept_Note_Proposal_v1_2020.pdf
+    - [Macadamia Project Page] https://www.bjarnebartlett.com/Interspecific-Breeding-History-of-Hawaiian-Macadamia/
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
